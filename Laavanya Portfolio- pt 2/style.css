@@ -1,0 +1,41 @@
+h1{
+    color:black;
+}
+
+p{
+    color:black;
+}
+
+/*{
+    border:solid;
+} * = everything */
+
+.header{
+    display:flex;
+    background-color: lightskyblue;
+    justify-content:space-evenly;
+}
+
+.games{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    background-color: lightpink;
+}
+
+.footer{
+    display:flex;
+    justify-content:flex-start;
+}
+
+.content{
+    display:flex;
+}
+
+.leftmargin{
+    margin-left:50px;
+}
+
+.rightmargin{
+    margin-right:50px;
+}
